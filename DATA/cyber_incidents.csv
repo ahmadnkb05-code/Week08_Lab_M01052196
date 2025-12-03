@@ -1,0 +1,3 @@
+date,incident_type,severity,status,description,reported_by
+2025-11-20,Phishing,High,Open,Email with malicious link,bob
+2025-11-21,Malware,Medium,Investigating,Endpoint detected Trojan,alice
